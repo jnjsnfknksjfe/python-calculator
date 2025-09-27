@@ -1,2 +1,2 @@
-# python-calculator
-"Simple calculator in Python" for school
+                                                                                                # Python-Calculator
+                                                                                      "Simple calculator in Python" for school

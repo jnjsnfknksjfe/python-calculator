@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Portfolio STI2D</title>
+
+  <style>
+    body {
+      font-family: Arial;
+      text-align: center;
+      background: #0f172a;
+      color: white;
+    }
+
+    .box {
+      background: #1f2937;
+      margin: 20px;
+      padding: 15px;
+      border-radius: 10px;
+    }
+
+    a {
+      color: #38bdf8;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>Mon Portfolio</h1>
+
+  <div class="box">
+    <p>Je suis étudiant en STI2D</p>
+  </div>
+
+  <div class="box">
+    <p>Compétences: HTML, CSS, Arduino</p>
+  </div>
+
+  <div class="box">
+    <p>
+      Site important:
+      <a href="https://www.parcoursup.gouv.fr" target="_blank">
+        Parcoursup
+      </a>
+    </p>
+  </div>
+
+</body>
+</html>
